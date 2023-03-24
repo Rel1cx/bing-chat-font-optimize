@@ -1,5 +1,7 @@
 {
-  "name": "tampermonkey-vite-template",
+  "name": "bing-chat-font-optimize",
+  "author": "Eva1ent",
+  "description": "Fixes the font in the Bing Chat",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -20,7 +22,5 @@
     "vite": "4.2.1",
     "vite-plugin-monkey": "3.0.3"
   },
-  "dependencies": {
-    "@swan-io/boxed": "0.12.1"
-  }
+  "dependencies": {}
 }

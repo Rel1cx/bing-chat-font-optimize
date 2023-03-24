@@ -1,3 +1,3 @@
-# tampermonkey-vite-template
+# bing-chat-font-optimize
 
-A template for creating a Tampermonkey script using Vite and TypeScript.
+Optimize the font of bing chat.
