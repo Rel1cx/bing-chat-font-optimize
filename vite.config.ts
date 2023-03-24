@@ -3,7 +3,7 @@ import monkey, { cdn } from 'vite-plugin-monkey'
 
 import packageJson from './package.json'
 
-const { name, description, author } = packageJson
+const { description, author } = packageJson
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -11,7 +11,7 @@ export default defineConfig({
         monkey({
             entry: 'src/main.ts',
             userscript: {
-                name,
+                name: 'Bing Chat Font Optimize',
                 namespace: 'me.relicx',
                 description,
                 author,

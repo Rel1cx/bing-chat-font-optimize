@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         bing-chat-font-optimize
+// @name         Bing Chat Font Optimize
 // @namespace    me.relicx
-// @version      0.0.1
+// @version      0.0.2
 // @author       Eva1ent
 // @description  Fixes the font in the Bing Chat
 // @icon         https://www.bing.com/favicon.ico
