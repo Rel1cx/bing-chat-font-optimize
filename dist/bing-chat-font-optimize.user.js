@@ -5,10 +5,10 @@
 // @author       Eva1ent
 // @description  Fixes the font in the Bing Chat
 // @icon         https://www.bing.com/favicon.ico
-// @source
-// @supportURL
-// @downloadURL
-// @updateURL
+// @source       https://github.com/Nicify/bing-chat-font-optimize
+// @supportURL   https://github.com/Nicify/bing-chat-font-optimize/issues
+// @downloadURL  https://cdn.jsdelivr.net/gh/Nicify/bing-chat-font-optimize/dist/bing-chat-font-optimize.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/Nicify/bing-chat-font-optimize/dist/bing-chat-font-optimize.user.js
 // @match        https://www.bing.com/*
 // @run-at       document-body
 // ==/UserScript==

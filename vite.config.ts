@@ -18,10 +18,13 @@ export default defineConfig({
                 match: ['https://www.bing.com/*'],
                 'run-at': 'document-body',
                 icon: 'https://www.bing.com/favicon.ico',
-                source: '',
-                supportURL: '',
-                updateURL: '',
-                downloadURL: '',
+                source: 'https://github.com/Nicify/bing-chat-font-optimize',
+                supportURL:
+                    'https://github.com/Nicify/bing-chat-font-optimize/issues',
+                updateURL:
+                    'https://cdn.jsdelivr.net/gh/Nicify/bing-chat-font-optimize/dist/bing-chat-font-optimize.user.js',
+                downloadURL:
+                    'https://cdn.jsdelivr.net/gh/Nicify/bing-chat-font-optimize/dist/bing-chat-font-optimize.user.js',
             },
             build: {
                 // externalGlobals: {},
